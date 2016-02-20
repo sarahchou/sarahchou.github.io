@@ -1,6 +1,23 @@
-#red{
-	color:red;
+body {background-color: blue;}
+
+
+.myclass {
+		color: #ffff30;
+
+	font-family: fantasy;
+
+	font-size: 70px;
+
+	text-align: center;
+
+	padding: 40px;
+
+	background-color: purple;
+
+	border: 30px; 
+
+	letter-spacing: 30px
 }
-#blue{
-	color:blue;
+#purp{
+	color: #bd00ff;
 }
