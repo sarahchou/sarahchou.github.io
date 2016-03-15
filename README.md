@@ -12,16 +12,16 @@ Before starting:
 
 To set up and run:
 
-`heroku login`
-`git clone https://github.com/zsobin/DemoWebApp.git`
-`cd DemoWebApp`
+- `heroku login`
+- `git clone https://github.com/zsobin/DemoWebApp.git`
+- `cd DemoWebApp`
 
-`heroku create`
-`git push heroku master`
-`heroku open` 
+- `heroku create`
+- `git push heroku master`
+- `heroku open` 
 
-`npm install`
-`heroku local web`
+- `npm install`
+- `heroku local web`
 - check out http://localhost:5000
 
 
