@@ -13,8 +13,9 @@ Before starting:
 
 To set up and run:
 
-- `heroku login`
 - fork project at https://github.com/zsobin/DemoWebApp.git
+
+- `heroku login`
 - `git clone https://github.com/YourUserName/DemoWebApp.git`
 - `cd DemoWebApp`
 
