@@ -4,6 +4,7 @@ Check it out at: https://tranquil-bayou-25612.herokuapp.com/
 
 Before starting: 
 - create Heroku account
+  - primary language = node
 - create Github account
 - install command line tools for each 
   - heroku: https://toolbelt.heroku.com/ 
@@ -13,7 +14,8 @@ Before starting:
 To set up and run:
 
 - `heroku login`
-- `git clone https://github.com/zsobin/DemoWebApp.git`
+- fork project at https://github.com/zsobin/DemoWebApp.git
+- `git clone https://github.com/YourUserName/DemoWebApp.git`
 - `cd DemoWebApp`
 
 - `heroku create`
