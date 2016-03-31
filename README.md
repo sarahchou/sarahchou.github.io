@@ -3,13 +3,13 @@
 Check it out at: https://ancient-forest-87393.herokuapp.com/
 
 Before starting:
-- create Heroku account
-  - primary language = node
-- create Github account
-- install command line tools for each
-  - heroku: https://toolbelt.heroku.com/
-  - github: https://help.github.com/articles/set-up-git/#setting-up-git
-- install Node.js and npm
+- [ ] Create Heroku account (primary language = node)
+  - [ ] install command line tools - https://toolbelt.heroku.com/
+- [ ] Create Github account
+  - [ ] install command line tools - https://help.github.com/articles/set-up-git/#setting-up-git
+- [ ] install Node.js
+- [ ] install npm
+- [ ] download and install a text editor (I recommend submlime)
 
 To set up and run:
 
