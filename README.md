@@ -21,7 +21,7 @@ To set up and run:
   - `cd DemoWebApp`
   - `ls`
 
-3. Turn that into a heroku project
+3. Initialize it as a heroku project
   - `heroku login`
   - `heroku create`
 
