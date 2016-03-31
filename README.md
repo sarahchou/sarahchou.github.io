@@ -1,13 +1,13 @@
 # DemoWebApp
 
-Check it out at: https://tranquil-bayou-25612.herokuapp.com/
+Check it out at: https://ancient-forest-87393.herokuapp.com/
 
-Before starting: 
+Before starting:
 - create Heroku account
   - primary language = node
 - create Github account
-- install command line tools for each 
-  - heroku: https://toolbelt.heroku.com/ 
+- install command line tools for each
+  - heroku: https://toolbelt.heroku.com/
   - github: https://help.github.com/articles/set-up-git/#setting-up-git
 - install Node.js and npm
 
@@ -21,7 +21,7 @@ To set up and run:
 
 - `heroku create`
 - `git push heroku master`
-- `heroku open` 
+- `heroku open`
 
 - `npm install`
 - `heroku local web`
