@@ -1,5 +1,5 @@
 
 function myFunction() {
-  document.getElementById("demo").innerHTML = "NEWWW PARAGRAPH #javascript #swag";
+  document.getElementById("demo").innerHTML = "where is my pink prada tote???";
 }
 
