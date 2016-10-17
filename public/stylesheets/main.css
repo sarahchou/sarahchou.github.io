@@ -5,9 +5,15 @@ body {
 h1 {
   color: blue;
   text-align: center;
+  
+}
+
+h3 {
+	font-family: "Lobster";
+	font-size: 30px;
 }
 
 p {
-  font-family: "Lobster";
-  font-size: 30px;
+  font-family: "Helvetica";
+  font-size: 22px;
 }
