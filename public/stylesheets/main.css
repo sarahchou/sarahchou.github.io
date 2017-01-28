@@ -4,9 +4,15 @@ body {
 
 h1 {
 	font-family: 'Amatic SC', cursive;
-  /* color: blue;
-  text-align: center; */
+  /* color: blue; */
+  text-align: center; 
   
+}
+
+h2 {
+	font-family: 'Barrio', cursive;
+	font-size: 100px;
+	text-align: center;
 }
 
 h3 {
