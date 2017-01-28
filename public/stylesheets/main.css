@@ -28,7 +28,12 @@ h3 {
 	font-family: "Lobster";
 	font-size: 30px;
 }
-
+h6 {
+	font-family: "Helvetica;
+	font-size: 15px
+	font-color: #581845;
+	text-align: center;
+}
 p {
   font-family: "Helvetica";
   font-size: 22px;
