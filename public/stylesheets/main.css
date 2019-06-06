@@ -1,13 +1,41 @@
 body {
-  background-color: #d0e4fe;
-}
+  background-color: #f3c3c3;
+} 
+
+
+html { 
+  background: url('/images/aya.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} 
 
 h1 {
-  color: orange;
-  text-align: center;
+	font-family: 'Amatic SC', cursive;
+  /* color: blue; */
+  text-align: center; 
+  
 }
 
-p {
-  font-family: "Courier New";
-  font-size: 30px;
+h2 {
+	font-family: 'Barrio', cursive;
+	font-size: 65px;
+	text-align: center;
 }
+
+h3 {
+	font-family: "Lobster";
+	font-size: 30px;
+}
+h6 {
+	font-family: "Helvetica;
+	font-size: 15px
+	font-color: #581845;
+	text-align: center;
+}
+p {
+  font-family: "Helvetica";
+  font-size: 22px;
+}
+
