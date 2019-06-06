@@ -1,0 +1,36 @@
+body {background-color: blue;}
+
+
+.myclass {
+		color: #f68fe8;
+
+	font-family: arial;
+
+	font-size: 70px;
+
+	text-align: center;
+
+	padding: 40px;
+
+	background-color: #ff7373;
+
+	border: 30px; 
+
+	letter-spacing: 10px
+}
+#purp{
+	color: #bd00ff;
+	font-size: 40px;
+}
+#title{
+	color: #f68fe8;
+	font-size: 30px;
+}
+#subtitle{
+	color: #9683ec;
+	font-size: 20px;
+}
+#subs{
+	color: #bbaadd;
+	font-size: 15px;
+}
