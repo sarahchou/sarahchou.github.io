@@ -52,11 +52,37 @@
 	left: 509px;
 	top: 400px;
 
-	font-family: Raleway;
+	font-family: Arial; /* change to Rlaeway later*/
 	font-style: normal;
 	font-weight: normal;
-	font-size: 90px;
+	font-size: 60px;
 	line-height: 106px;
 
+	color: #000000;
+}
+h4 {
+	position: absolute;
+	left: 509px;
+	top: 500px;
+	font-family: Arial; /* change to Raleway later*/
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	line-height: 130px;
+	color: #000000;
+}
+#major {
+	top: 520px;
+	font-weight: lighter;
+}
+h5{
+	position: absolute;
+	left: 509px;
+	top: 540px;
+	font-family: Arial; /* change to Rlaeway later*/
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	line-height: 106px;
 	color: #000000;
 }
