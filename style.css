@@ -1,5 +1,4 @@
-body {background-color: blue;}
-
+/* 
 
 .myclass {
 		color: #f68fe8;
@@ -33,15 +32,31 @@ body {background-color: blue;}
 #subs{
 	color: #bbaadd;
 	font-size: 15px;
-}
+} */
 
 #profile-pic{
 	position: absolute;
-width: 184px;
-height: 230px;
-left: 45%;
-top: 171px;
-border: 1px solid #ddd;
-border-radius: 4px;
-padding: 5px;
+	width: 230px;
+	height: 300px;
+	left: 40%;
+	top: 100px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+}
+
+#name {
+	position: absolute;
+	width: 481px;
+	height: 106px;
+	left: 509px;
+	top: 400px;
+
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	line-height: 106px;
+
+	color: #000000;
 }
