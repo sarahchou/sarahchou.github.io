@@ -85,3 +85,60 @@ h5{
 	line-height: 106px;
 	color: #000000;
 }
+#side-image {
+	position: absolute;
+	left: 6%;
+	top: 15%;
+	border-radius: 50%;
+	padding: 5px;
+	height: 300px;
+	width: 300px;
+
+}
+
+#side-image-right {
+	position: absolute;
+	right: 6%;
+	top: 15%;
+	border-radius: 50%;
+	padding: 5px;
+	height: 300px;
+	width: 300px;
+
+}
+p {
+	left: 6%;
+	top: 30%;
+	margin-top: 50%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+#title {
+	position: absolute;
+	width: 295px;
+	height: 76px;
+	left: 40%;
+	right: 40%;
+	top: 10%;
+	
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	line-height: 76px;
+}
+#body-text {
+	position: absolute;
+	left: 30%;
+	top: 210px;
+	right: 10%;
+
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 35px;
+
+	color: #000000;
+}
