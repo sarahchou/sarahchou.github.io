@@ -34,3 +34,14 @@ body {background-color: blue;}
 	color: #bbaadd;
 	font-size: 15px;
 }
+
+#profile-pic{
+	position: absolute;
+width: 184px;
+height: 230px;
+left: 45%;
+top: 171px;
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+}
