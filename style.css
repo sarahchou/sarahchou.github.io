@@ -86,24 +86,23 @@ h5{
 	color: #000000;
 }
 #side-image {
-	position: absolute;
 	left: 6%;
 	top: 15%;
 	border-radius: 50%;
 	padding: 5px;
 	height: 300px;
 	width: 300px;
-
+	display: inline-block;
 }
 
 #side-image-right {
-	position: absolute;
-	right: 6%;
+	left: 50%;
 	top: 15%;
 	border-radius: 50%;
 	padding: 5px;
 	height: 300px;
 	width: 300px;
+	display: inline-block;
 
 }
 p {
@@ -112,26 +111,25 @@ p {
 	margin-top: 50%;
 	margin-right: 10%;
 	margin-left: 10%;
-}
+	display: inline-block;
 
+}
 #title {
-	position: absolute;
-	width: 295px;
-	height: 76px;
+	width: 50%;
+	height: 90px;
 	left: 40%;
 	right: 40%;
-	top: 10%;
 	
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 50px;
+	font-size: 90px;
 	line-height: 76px;
+	display: inline-block;
 }
 #body-text {
-	position: absolute;
 	left: 30%;
-	top: 210px;
+	top: 10%;
 	right: 10%;
 
 	font-family: Arial;
@@ -139,6 +137,8 @@ p {
 	font-weight: normal;
 	font-size: 16px;
 	line-height: 35px;
+	width: 50%;
+	display: inline-block;
 
 	color: #000000;
 }
