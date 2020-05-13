@@ -80,15 +80,15 @@ p {
 }
 #title {
 	width: 80%;
-	height: 90px;
+	height: 70px;
 	left: 40%;
 	right: 40%;
 	
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 90px;
-	line-height: 76px;
+	font-size: 70px;
+	line-height: 170px;
 	display: inline-block;
 }
 #body-text {
@@ -109,5 +109,5 @@ p {
 #contact-icon {
 	width: 30px;
 	height: 30px;
-	
+
 }
