@@ -24,30 +24,39 @@
 	color: #000000;
 }
 h4 {
-	position: absolute;
-	left: 509px;
-	top: 500px;
 	font-family: Arial; /* change to Raleway later*/
 	font-style: normal;
 	font-weight: normal;
 	font-size: 40px;
 	line-height: 130px;
 	color: #000000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+#subtitle {
+	top: 520px;
+	justify-content: flex-end;
+	padding-top: 500px;
 }
 #major {
-	top: 520px;
+	font-weight: lighter;
+	justify-content: flex-end;
+}
+#minor {
 	font-weight: lighter;
 }
-h5{
-	position: absolute;
-	left: 509px;
-	top: 540px;
-	font-family: Arial; /* change to Rlaeway later*/
+h5 {
+	font-family: Courier; /* change to Rlaeway later*/
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 35px;
 	line-height: 106px;
 	color: #000000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 #side-image {
 	display: flex;
@@ -144,7 +153,7 @@ p {
 	justify-content: space-evenly;
 	align-content: flex-start;
 }
-
 .contact {
-	justify-content: flex-start;
+	display: flex;
+	justify-content: center;
 }
