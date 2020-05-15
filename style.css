@@ -111,10 +111,11 @@ p {
 	color: #000000;
 	padding-left: 5%;
 	padding-right: 5%;
-	padding-top: 5%;
-	padding-top: 3%;
+	padding-top: 15%;
 	display: flex;
 	flex-wrap: wrap;
+	align-items: center;
+	flex-direction: column;
 }
 
 #contact-icon {
