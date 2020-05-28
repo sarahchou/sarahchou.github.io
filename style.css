@@ -160,9 +160,10 @@ p {
 	line-height: 35px;
 	color: #000000;
 	padding-top: 3%;
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
+	display: inline;
+	/* display: flex;
+	flex-direction: column;
+	justify-content: center;    */
 
 }
 #project-text {
@@ -181,6 +182,10 @@ p {
 #contact-icon {
 	width: 30px;
 	height: 30px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	margin-left: 30%;
 }
 .container {
 	display: flex;
