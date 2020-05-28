@@ -76,6 +76,15 @@ h5 {
 	padding-left: 40%;
 }
 
+#cs-proj-img-vert {
+	display: flex;
+	justify-content: center;
+	padding: 10px, 5px 50px, 50px;
+	height: 440px;
+	width: 220px;
+	padding-left: 50%;
+}
+
 #cs-proj-title {
 	padding-left: 10%;
 }
