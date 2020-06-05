@@ -70,8 +70,8 @@ h5 {
 	display: flex;
 	justify-content: center;
 	padding: 10px, 5px 50px, 50px;
-	height: 190px;
-	width: 480px;
+	height: 210px;
+	width: 590px;
 	padding-left: 40%;
 }
 
@@ -80,8 +80,16 @@ h5 {
 	justify-content: center;
 	padding: 10px, 5px 50px, 50px;
 	height: 440px;
-	width: 220px;
+	width: 250px;
 	padding-left: 50%;
+}
+
+#cs-proj-img-vert-twitter {
+	display: flex;
+	justify-content: center;
+	height: 440px;
+	width: 580px;
+	padding-left: 40%;
 }
 
 #cs-proj-title {
