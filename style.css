@@ -112,8 +112,6 @@ h5 {
 	height: 300px;
 	width: 300px;
 	display: flex;
-	/* left: 50%;
-	padding-left: 50%; */
 	justify-content: center;
 
 }
