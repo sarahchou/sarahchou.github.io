@@ -166,19 +166,13 @@ p {
 	color: #000000;
 	padding-top: 3%;
 	display: inline;
-	/* display: flex;
-	flex-direction: column;
-	justify-content: center;    */
-
 }
 #project-text {
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
-	line-height: 25px;
 	color: #000000;
-	padding-top: 4%;
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
