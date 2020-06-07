@@ -201,6 +201,14 @@ p {
 	justify-content: center;
 
 }
+
+#carousel-wide-img {
+	width: 700px;
+	height: 500px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
 .container {
 	display: flex;
 	justify-content: space-evenly;
