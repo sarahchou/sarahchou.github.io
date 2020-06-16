@@ -132,7 +132,6 @@ p {
 	height: 70px;
 	left: 40%;
 	right: 40%;
-	
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
@@ -167,6 +166,17 @@ p {
 	padding-top: 3%;
 	display: inline;
 }
+#contact-text {
+	font-family: Arial;
+	font-size: 16px;
+	line-height: 35px;
+	color: #000000;
+	padding-top: 3%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+}
 #project-text {
 	font-family: Arial;
 	font-style: normal;
@@ -183,8 +193,8 @@ p {
 	height: 30px;
 	display: flex;
 	justify-content: center;
-	flex-direction: column;
-	margin-left: 30%;
+	flex-direction: row;
+	margin-left: 50%;
 }
 
 #flyer-img {
