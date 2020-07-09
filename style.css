@@ -93,7 +93,10 @@ h5 {
 }
 
 #cs-proj-title {
-	padding-left: 10%;
+	/* padding-left: 10%; */
+	text-align: center;
+	font: Courier;
+	font-family: 'Courier New', Courier, monospace;
 }
 
 #side-image-right {
@@ -239,6 +242,7 @@ p {
 .item {
 	justify-content: space-evenly;
 	align-content: flex-start;
+	flex-wrap: wrap;
 }
 .project-container {
 	display: flex;
