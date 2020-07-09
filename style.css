@@ -260,3 +260,12 @@ p {
 	display: flex;
 	justify-content: center;
 }
+
+#back {
+	margin-left: 5%;
+}
+#top {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
