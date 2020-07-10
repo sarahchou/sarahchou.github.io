@@ -228,7 +228,7 @@ p {
 
 
 #example-img {
-	width: 850px;
+	width: 70%;
 	height: 500px;
 	display: flex;
 	flex-direction: row;
