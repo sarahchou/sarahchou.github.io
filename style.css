@@ -197,7 +197,7 @@ p {
 	display: flex;
 	justify-content: center;
 	flex-direction: row;
-	margin-left: 50%;
+	margin-left: 30%;
 }
 
 #flyer-img {
@@ -259,6 +259,7 @@ p {
 .contact {
 	display: flex;
 	justify-content: center;
+	flex-direction: row;
 }
 
 #back {
