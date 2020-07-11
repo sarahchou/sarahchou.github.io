@@ -245,3 +245,36 @@ h5 {
 	justify-content: center;
 	align-items: center;
 }
+.cards {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+	grid-gap: 30px; 
+	max-width: 960px;
+	margin: 0 auto 30px;
+}
+
+article {
+	position: relative;
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+  }
+  
+  .proj-img {
+	height: 90%;
+	width: 80%;
+	object-fit: cover;
+  }
+  
+  .proj-title {
+	/* position: absolute; */
+	bottom: 0;
+	width: 100%;
+	padding: 10px;
+	background-color: rgba(255, 255, 255, 0.2);
+	font-size: 18px;
+  }
