@@ -267,6 +267,7 @@ article {
 	height: 90%;
 	width: 80%;
 	object-fit: contain;
+	padding:1%;
   }
   
   .proj-title {
