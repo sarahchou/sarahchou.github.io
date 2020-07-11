@@ -267,7 +267,7 @@ article {
   .proj-img {
 	height: 90%;
 	width: 80%;
-	object-fit: cover;
+	object-fit: contain;
   }
   
   .proj-title {
