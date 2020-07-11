@@ -1,29 +1,14 @@
-#profile-pic{
-	position: absolute;
-	width: 250px;
-	height: 290px;
-	left: 40%;
-	top: 100px;
+.profile-img {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+	height: 40%;
 	border-radius: 50%;
-	padding: 5px;
-}
+ }
 
-#name {
-	position: absolute;
-	width: 481px;
-	height: 106px;
-	left: 37%;
-	top: 400px;
-	font-family: Arial; /* change to Rlaeway later*/
-	font-style: normal;
-	font-weight: normal;
-	font-size: 60px;
-	line-height: 106px;
-
-	color: #000000;
-}
 h4 {
-	font-family: Arial; /* change to Raleway later*/
+	font-family: Arial; 
 	font-style: normal;
 	font-weight: normal;
 	font-size: 60px;
@@ -35,9 +20,7 @@ h4 {
 	flex-direction: column;
 }
 #subtitle {
-	top: 520px;
 	justify-content: flex-end;
-	padding-top: 500px;
 }
 #major {
 	font-weight: lighter;
@@ -47,7 +30,7 @@ h4 {
 	font-weight: lighter;
 }
 h5 {
-	font-family: Courier; /* change to Rlaeway later*/
+	font-family: Courier;
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 35px;
@@ -93,7 +76,6 @@ h5 {
 }
 
 #cs-proj-title {
-	/* padding-left: 10%; */
 	text-align: center;
 	font: Courier;
 	font-family: 'Courier New', Courier, monospace;
@@ -121,28 +103,12 @@ h5 {
 p {
 	left: 6%;
 	top: 20%;
-	/* margin-top: 20%; */
-	/* margin-right: 10%;
-	margin-left: 10%; */
-	/* display: inline-block; */
 	padding-left: 5%;
 	padding-right: 5%;
 	padding-top: 1%;
 	font-size:16px;
 }
-#title {
-	width: 100%;
-	height: 70px;
-	left: 40%;
-	right: 40%;
-	font-family: Arial;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 60px;
-	line-height: 130px;
-	display: inline-block;
-	text-align: center;
-}
+
 #body-text {
 	font-family: Arial;
 	font-style: normal;
