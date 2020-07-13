@@ -114,6 +114,8 @@ h5 {
 	width: 30%;
 	height: 40%;
 	border-radius: 50%;
+	margin-top: 8%;
+	margin-bottom:4%;
 }
 
 #cs-proj-img {
@@ -277,3 +279,39 @@ article {
 	background-color: rgba(255, 255, 255, 0.2);
 	font-size: 18px;
   }
+
+/* NAVBAR */
+.svg-inline--fa {
+    display: inline-block;
+    font-size: inherit;
+    height: 1em;
+    overflow: visible;
+    vertical-align: -.125em;
+}
+#mainNav .navbar-toggler {
+    font-size: 80%;
+    padding: 0.8rem;
+}
+button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled) {
+    cursor: pointer;
+}
+
+.page-section {
+    padding: 6rem 0;
+}
+
+.page-section .page-section-heading {
+    font-size: 2.25rem;
+	line-height: 2rem;
+}
+
+
+.text-secondary {
+    color: #2c3e50 !important;
+}
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+.text-center {
+    text-align: center !important;
+}
