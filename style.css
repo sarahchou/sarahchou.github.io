@@ -77,10 +77,10 @@ h5 {
 	line-height: 35px;
 	color: #000000;
 	padding-top: 3%;
-	display: flex;
+	/* display: flex;
 	flex-direction: column;
-	justify-content: center;
-
+	justify-content: flex-end; */
+	margin-left: 20%;
 }
 #project-text {
 	font-family: Arial;
@@ -170,12 +170,12 @@ h5 {
 
 
 #contact-icon {
-	width: 30px;
-	height: 30px;
+	width: 40px;
+	height: 40px;
 	display: flex;
 	justify-content: center;
 	flex-direction: row;
-	margin-left: 30%;
+	margin-left: 25%;
 }
 
 #flyer-img {
@@ -236,7 +236,7 @@ h5 {
 	flex-direction: column;
 	flex-wrap: wrap;
 }
-.contact {
+.resume-pdf {
 	display: flex;
 	justify-content: center;
 	flex-direction: row;
