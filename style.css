@@ -120,28 +120,31 @@ h5 {
 
 #cs-proj-img {
 	display: flex;
-	justify-content: center;
+	justify-content: flex-start;
 	padding: 10px, 5px 50px, 50px;
-	height: 210px;
-	width: 590px;
-	padding-left: 40%;
+	height: auto;
+	width: 100%;
+	max-width: 600px;
+	max-height: 500px;
 }
 
 #cs-proj-img-vert {
 	display: flex;
 	justify-content: center;
 	padding: 10px, 5px 50px, 50px;
-	height: 440px;
-	width: 250px;
-	padding-left: 50%;
+	height: auto;
+	width: 100%;
+	max-width: 300px;
+	max-height: 500px;
 }
 
 #cs-proj-img-vert-twitter {
 	display: flex;
 	justify-content: center;
-	height: 440px;
-	width: 580px;
-	padding-left: 40%;
+	height: auto;
+	width: 100%;
+	max-width: 400px;
+	max-height: 500px;
 }
 
 
@@ -274,10 +277,10 @@ article {
   
   .proj-title {
 	bottom: 0;
-	width: 80%;
+	width: 100%;
 	padding: 10px;
 	background-color: rgba(255, 255, 255, 0.2);
-	font-size: 18px;
+	font-size: 25px;
   }
 
 /* NAVBAR */
