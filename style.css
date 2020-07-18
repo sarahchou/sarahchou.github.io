@@ -131,11 +131,12 @@ h5 {
 #cs-proj-img-vert {
 	display: flex;
 	justify-content: center;
-	padding: 10px, 5px 50px, 50px;
 	height: auto;
 	width: 100%;
 	max-width: 300px;
 	max-height: 500px;
+	/* centers it */
+	margin-left:20%; 
 }
 
 #cs-proj-img-vert-twitter {
@@ -145,6 +146,7 @@ h5 {
 	width: 100%;
 	max-width: 400px;
 	max-height: 500px;
+	margin-left: 10%;
 }
 
 
@@ -259,7 +261,7 @@ h5 {
 }
 
 article {
-	position: relative;
+	/* position: relative; */
 	display: block;
 	margin: 0;
 	padding: 0;
@@ -269,9 +271,11 @@ article {
   }
   
   .proj-img {
-	height: 90%;
-	width: 80%;
-	object-fit: contain;
+	height: auto;
+	width: auto;
+	max-width: 300px;
+	max-height: 500px;
+	object-fit: scale-down;
 	padding:1%;
   }
   
