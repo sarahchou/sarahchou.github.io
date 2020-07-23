@@ -114,8 +114,8 @@ h5 {
 	width: 30%;
 	height: 40%;
 	border-radius: 50%;
-	margin-top: 8%;
-	margin-bottom:4%;
+	/* margin-top: 8%; */
+	margin-bottom:2%;
 }
 
 #cs-proj-img {
@@ -258,7 +258,54 @@ h5 {
 	grid-gap: 30px; 
 	max-width: 960px;
 	margin: 0 auto 30px;
+	
 }
+
+/* .cards {
+	display: flex;
+	flex-wrap: wrap;
+	/* justify-content: space-between; */
+ }
+  
+ .card {
+	 /* flex: 0 1 24%; */
+	 flex: 1 0 500px;
+	 box-sizing: border-box;
+	 margin: 1rem .25em;
+ } */
+
+ @media screen and (min-width: 40em) {
+    /* .cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    } */
+ 
+    .card {
+		/* flex: 0 1 calc(50% - 1em); */
+		max-width: calc(50% -  1em);
+
+    }
+}
+ 
+@media screen and (min-width: 60em) {
+	.card {
+		/* flex: 0 1 calc(25% - 1em); */
+		max-width: calc(25% - 1em);
+
+    }
+}
+ 
+@media screen and (min-width: 52em) {
+    .centered {
+        max-width: 52em;
+    }
+}
+.centered {
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
 
 article {
 	/* position: relative; */
