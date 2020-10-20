@@ -318,12 +318,15 @@ article {
   }
   
   .proj-img {
-	height: auto;
+	height: 100%;
 	width: auto;
 	max-width: 300px;
-	max-height: 500px;
+	max-height: 300px;
 	object-fit: scale-down;
 	padding:1%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
   }
   
   .proj-title {
